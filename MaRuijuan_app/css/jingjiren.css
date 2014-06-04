@@ -1,0 +1,96 @@
+body{
+	width: 100%; 
+	display: -webkit-box;    
+}
+ 
+header{  
+	background: #ed9249;
+	font-family: "微软雅黑"; 
+	color: #fff;
+	position: absolute;
+	z-index: 2;
+	top:0;left: 0;
+	height: 66px;
+	width: 100%;
+	line-height: 66px; 
+}
+ 
+ 
+header ul{ 	
+    height: 0;
+	float: left;
+	text-align: center;
+	width: 100%;
+	font-size:2.5em;
+	margin-top:  15px;
+}
+ 
+#wrapper{
+	position: absolute;
+	width: 100%; 
+	height: 85%;
+	z-index: 1; 
+	width: 100%; 
+ 	margin-top:66px;  
+ 	overflow: auto;
+ }
+ 
+#scroller{
+	position: absolute;
+	width: 100%;
+	z-index: 1;   width: 100%;
+	 
+}
+.thelist img{
+	width: 75%;
+	margin: 0;
+	padding: 0;
+	display: block;
+} 
+.thelist div.zong{
+	padding-left: 3%;
+    padding-right: 3%;
+	border-bottom: 1px solid #cecece;
+	display: -webkit-box;
+}
+.thelist div ul{
+    padding-top: 1.4em;
+}
+.thelist div ul.z{
+    -webkit-box-flex:1;
+}
+.thelist div ul.y{
+    -webkit-box-flex:5;
+}
+.zy p{
+   width:45%;
+}
+.thelist div li{ 
+	
+	padding-bottom: 1em;
+	font-family: "微软雅黑";
+	font-size: 1.5em;
+	color: #5a5a5a;
+}
+.thelist div li.da{margin-left: -0.8em;
+	color: #4b4b4b;
+	font-size: 1.5em;
+}
+.thelist div li.zy{margin-left: -0.8em;
+	font-size: 1.5em;
+	color:#797979;
+}
+ 
+.thelist div.bot{
+	margin-bottom: 1.5em;
+}
+.thelist div li.zy p img{
+	width: 10%;
+	float: left;
+	margin-right: 0.4em;
+} 
+ 
+.thelist div li span{
+	float: right;  
+} 
+ 

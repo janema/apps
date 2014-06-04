@@ -1,0 +1,32 @@
+body{
+	width: 100%; 
+	display: -webkit-box;    
+}
+.top img{ 
+	width: 100%;
+} 
+#wrapper{
+	position: absolute;
+	width: 100%; z-index: 1;  
+	height:100%;background: #7aa6cc; 
+ 
+}
+.bg{
+	width: 100%; 
+	background: #7aa6cc; 
+}
+.bg p{
+	text-align: center;  
+	font-size:2em;
+	color: #fff;
+	margin-top: 3em;
+	font-family: "张海山锐谐体"; 
+}
+.tu{
+	text-align: center; 
+}
+.tu img{margin-top: 3em;
+    margin-bottom: 3em;
+    padding-right: 1em;
+}
+ 

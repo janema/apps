@@ -1,0 +1,65 @@
+
+#wrapper{
+	 position: absolute;
+	width: 100%; 
+	height:89%;
+	z-index: 1; 
+	width: 100%; 
+ 	margin-top:50px;   
+ 	
+}
+.img img{
+    display: block;
+	width: 100%;
+} 
+#scroller{
+	position: absolute;
+	width: 100%;
+	z-index: 1;   width: 100%;
+}
+
+.zi{
+	margin-bottom: 7em;
+} 
+.first{
+	padding-left: 5%;
+	padding-right: 5%; height: 5em;
+	border-bottom: 1px solid #ccc;
+	font-size: 1.2em;
+	font-family: "微软雅黑";
+	line-height: 2em;
+	color: #5a5a5a;
+	margin-top: 1.2em;
+
+} 
+  
+.first p{
+	float: right;
+	font-size: 1.1em;
+	color: #a9a7a1;
+	padding-left: 1.4em;
+	background: url(../images/wendu_05.png) no-repeat 0px;
+} 
+.first p span{
+	color: #ed9249;
+}
+.first p img{
+	padding-right: 3%;
+}
+ 
+.lis li{ 
+	line-height:5em;
+	border-bottom: 1px solid #ccc; 
+	width: 100%;
+	padding-left: 5%;
+	padding-right: 3%;
+	font-family: "微软雅黑";
+	font-size: 1.2em;
+	color:  #5a5a5a;
+}
+.lis li span{
+	color: #a9a7a1;
+	float: right;
+	padding-right:15%;
+	background: url(../images/jt_09.png) no-repeat 2.7em 2em;
+}

@@ -1,0 +1,52 @@
+.thelist img{
+	width: 65%;
+	margin: 0;
+	padding: 0;
+	display: block;
+} 
+.thelist div.zong{
+	padding-left: 3%;
+	padding-right: 3%;
+	border-bottom: 1px solid #cecece;
+	display: -webkit-box;
+}
+.thelist div ul{
+    padding-top: 1%;
+}
+.thelist div ul.z{
+    -webkit-box-flex:1;
+    margin-right: -4.5em;
+}
+.thelist div ul.y{
+    -webkit-box-flex:5;
+}
+.thelist div li{ 
+	padding-top: 2%;
+    padding-bottom: 1%;
+	font-family: "微软雅黑";
+	font-size: 1.15em;
+	color: #5a5a5a;
+}
+.thelist div li.da{
+	color: #4b4b4b;
+    font-size: 1.2em;
+}
+.thelist div li.zy{
+	font-size: 1.1em;
+	color:#a6a6a6;
+}
+.thelist div li.color{
+	color: #f0ac75;
+	font-size:  1em;
+}
+   
+.thelist div.bot{
+	margin-bottom: 2em;
+}
+ 
+
+.thelist div li.zy{
+	font-size:  1.1em;
+	color:#797979;
+}
+ 

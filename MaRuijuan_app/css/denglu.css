@@ -1,0 +1,67 @@
+html,body{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	-webkit-box-orient:vertical;
+	display: -webkit-box;   
+ }
+.top{
+	width: 100%;
+	text-align: center;
+	font-size:1.5em;
+	color: #fff;
+	background: #ed9249;
+	line-height: 50px;
+	position: absolute;
+	z-index: 2;
+	font-family: "微软雅黑";
+} 
+.content{
+	position: absolute;
+	z-index: 1;
+	margin-top:50px; 
+	width: 100%;
+	height: 0;
+}
+.content ul{
+	width:90%;
+	margin: 0;
+	padding: 0;
+	margin: 0 5%;
+}
+.content li{ 	 
+	 margin-top:1.4em;
+	 width:100%;
+	 font-size: 1.14em;
+	 font-family:"微软雅黑"; 
+	 color: #7e7e7e; 
+}
+.input{
+	line-height:2.8em;
+	width: 97%;
+
+}
+.input2{
+	line-height:2em;
+	margin-left: 5%;  
+}
+.checkbox{
+	width: 1em;
+	height: 1em;
+	border: 1px solid #d7d7d7;
+}
+.btn{
+	background: #31cec8;
+	text-align: center;
+    line-height:2em;
+    }
+.btn a{
+	color: #fff;
+	text-decoration: none;
+	display: block;
+}
+input{
+
+	color: #7e7e7e;
+   font-family:"微软雅黑"; 
+}
